@@ -1,0 +1,295 @@
+"NpID;""NpName"";""NpLevel"";""CorrespondingServantNumber""",,,
+"1;""Mold Camelot"";2",,,1
+"2;""Excalibur"";3",,,2
+"3;""Excalibur Morgan"";3",,,3
+"4;""Caliburn"";1",,,4
+"5;""Laus St. Claudius"";2",,,5
+"6;""Balmung"";5",,,6
+"7;""Crocea Mors"";1",,,7
+"8;""Photon Ray"";5",,,8
+"9;""Saint War Order"";4",,,9
+"10;""Fleur de Lis"";4",,,10
+"11;""Unlimited Blade Works"";3",,,11
+"12;""Enuma Elish"";1",,,12
+"13;""Yew Bow"";1",,,13
+"14;""Phoebus Catastrophe"";3",,,14
+"15;""Eye of the Euryale"";4",,,15
+"16;""Stella"";4",,,16
+"17;""Gae Bolg"";2",,,17
+"18;""Bathory Erzsebet"";1",,,18
+"19;""Pilgrimage of the Five Hundred Arhat"";5",,,19
+"20;""Gae Bolg"";5",,,20
+"21;""Thermopylae Enomotia"";5",,,21
+"22;""Magna Voluisse Magnum"";4",,,22
+"23;""Bellerophon"";5",,,23
+"24;""Ascalon"";1",,,24
+"25;""Queen Anne's Revenge"";4",,,25
+"26;""Chariot of Boudica"";5",,,26
+"27;""Dan-No-Ura Eight-Boat Leap"";5",,,27
+"28;""Bucephalus"";2",,,28
+"29;""Guillotine Breaker"";5",,,29
+"30;""Tarasque"";5",,,30
+"31;""Rule Breaker"";1",,,31
+"32;""Prelati's Spellbook"";2",,,32
+"33;""Marchen Meines Lebens"";3",,,33
+"34;""First Folio"";1",,,34
+"35;""Ticktock Bomb"";5",,,35
+"36;""Requiem for Death"";3",,,36
+"37;""Unreturning Formation"";3",,,37
+"38;""Wicker Man"";3",,,38
+"39;""Swallow Reversal"";4",,,39
+"40;""Zabaniya"";4",,,40
+"41;""Smile of the Stheno"";2",,,41
+"42;""All I Do Is Kill"";2",,,42
+"43;""La Mort Espoir"";3",,,43
+"44;""Christine Christine"";2",,,44
+"45;""Mata Hari"";5",,,45
+"46;""Phantom Maiden"";4",,,46
+"47;""Nine Lives"";1",,,47
+"48;""Knight of Owner"";2",,,48
+"49;""God Force"";4",,,49
+"50;""Crying Warmonger"";2",,,50
+"51;""Golden Spark"";3",,,51
+"52;""Kazikli Bey"";3",,,52
+"53;""Chaos Labyrinth"";5",,,53
+"54;""Flucticulus Diana"";3",,,54
+"55;""Athanaton Ten Thousand"";3",,,55
+"56;""Transforming"," Flame-Emitting Meditation"";1",,56
+"57;""Bloodbath Crown"";2",,,57
+"58;""Napping in the Dazzling Sunshine and Feasting"";3",,,58
+"59;""Luminosite Eternelle"";2",,,59
+"60;""Tri-Star Amore Mio"";5",,,60
+"61;""Bathory Halloween Erzsebet"";2",,,61
+"62;""Eightfold Blessings of Amaterasu"";5",,,62
+"63;""Hamesh Avanim"";1",,,63
+"64;""Durindana"";1",,,64
+"65;""Golden Wild Hunt"";2",,,65
+"66;""Caribbean Free Bird"";5",,,66
+"67;""Pain Breaker"";4",,,67
+"68;""Mumyou Sandanzuki"";2",,,68
+"69;""Three Line Formation"";1",,,69
+"70;""Gae Bolg Alternative"";2",,,70
+"71;""Gae Dearg and Gae Buidhe"";5",,,71
+"72;""Caladbolg"";5",,,72
+"73;""Excalibur Morgan"";1",,,73
+"74;""Nursery Rhyme"";4",,,74
+"75;""Maria the Ripper"";5",,,75
+"76;""Clarent Blood Arthur"";5",,,76
+"77;""System Keraunos"";5",,,77
+"78;""Rhongomyniad"";5",,,78
+"79;""Sword of Paracelsus"";5",,,79
+"80;""Dimension of Steam"";3",,,80
+"81;""Dangerous Game"";1",,,81
+"82;""Blasted Tree"";1",,,82
+"83;""x"";3",,,83
+"84;""Pashupata"";3",,,84
+"85;""Vasavi Shakti"";3",,,85
+"86;""Secret Calibur"";1",,,86
+"87;""Mac an Luin"";5",,,87
+"88;""Brynhild Romantia"";2",,,88
+"89;""Grendel Buster"";5",,,89
+"90;""Fax Caelestis"";4",,,90
+"91;""Amalavijnana - Boundary of Emptiness"";1",,,91
+"92;""Vijnapti-matrata - Mystic Eyes of Death Perception"";4",,,92
+"93;""Twin Arm - Big Crunch"";4",,,93
+"94;""Hippogriff"";4",,,94
+"95;""Gate of Babylon"";1",,,95
+"96;""Enfer Chateau d'If"";2",,,96
+"97;""Nightingale Pledge"";4",,,97
+"98;""Curruid Coinchenn"";5",,,98
+"99;""Chariot My Love"";5",,,99
+"100;""Sanat Kumara"";5",,,100
+"101;""Brahmastra"";5",,,101
+"102;""Shen Qiang Wu Er Da"";3",,,102
+"103;""World Faith Domination"";4",,,103
+"104;""Tsago Degi Naleya"";4",,,104
+"105;""Thunderer"";3",,,105
+"106;""La Grondement Du Haine"";4",,,106
+"107;""Verg Avesta"";2",,,107
+"108;""Ionioi Hetairoi"";4",,,108
+"109;""Chronos Rose"";5",,,109
+"110;""Zabaniya"";3",,,110
+"111;""Song of Grail"";1",,,111
+"112;""Multicolored Poison - Shinpen Kidoku"";2",,,112
+"113;""Five Elements Mountain Buddha Palm"";5",,,113
+"114;""Vengeful Lightning of the Ox-King"";5",,,114
+"115;""Golden Drive"," Good Night"";1",,115
+"116;""Great Grudge of Rashomon"";5",,,116
+"117;""Immortal Chaos Brigade"";1",,,117
+"118;""Ramesseum Tentyris"";5",,,118
+"119;""Rhongomyniad"";5",,,119
+"120;""Anpu Neb Ta Djeser"";2",,,120
+"121;""Arondight Overload"";5",,,121
+"122;""Failnaught"";4",,,122
+"123;""Black Dog Galatine"";4",,,123
+"124;""Zabaniya"";3",,,124
+"125;""Hachiman Prayer"";2",,,125
+"126;""Switch On - Airgetlam"";1",,,126
+"127;""Uomo Universale"";1",,,127
+"128;""Tokonatsu Nikkou - Goddess' Love Parasol"";5",,,128
+"129;""Excalibur Viviane"";2",,,129
+"130;""Crystal Dress"";1",,,130
+"131;""Caribbean Free Bird Act 2"";3",,,131
+"132;""Prydwen Tube Riding"";4",,,132
+"133;""Gae Bolg Alternative"";2",,,133
+"134;""Dojo-ji Bell Form 108 - Karyu-nagi"";4",,,134
+"135;""Tarasque"";4",,,135
+"136;""Quintett Feuer"";3",,,136
+"137;""Triple Crane Wings"";5",,,137
+"138;""Bathory Brave Erzsebet"";3",,,138
+"139;""Uraeus Astrape"";1",,,139
+"140;""Kazikli Bey"";3",,,140
+"141;""La Grace Fille Noel"";3",,,141
+"142;""An Gal Ta Kigal She"";5",,,142
+"143;""Enuma Elis"";3",,,143
+"144;""Xiuhcoatl"";1",,,144
+"145;""Melammu Digir"";1",,,145
+"146;""Caress of the Medusa"";1",,,146
+"147;""Pandemonium Cetus"";3",,,147
+"148;""Great Death Claw"";3",,,148
+"149;""Nammu Duranki"";4",,,149
+"150;""Garden of Avalon"";1",,,150
+"151;""Ars Almadel Solomonis"";5",,,151
+"152;""x"";3",,,152
+"153;""Six Paths"," Five Rings: Kurikara Divine Blade"";5",,153
+"154;""Zabaniya"";2",,,154
+"155;""Cross-Calibur"";1",,,155
+"156;""The Dynamics of an Asteroid"";4",,,156
+"157;""Unlimited Lost Works"";3",,,157
+"158;""Frieren Scharfrichter"";3",,,158
+"159;""Ambush from Ten Sides ? As If There Was No Shadow"";5",,,159
+"160;""Excalibur"";1",,,160
+"161;""Shinsengumi Fumetsu no Makoto"";1",,,161
+"162;""Kenran Makai Nichirinjou"";5",,,162
+"163;""Saraswati Meltout"";4",,,163
+"164;""Brynhild Romantia"";1",,,164
+"165;""Demonic Sun-Shower"";3",,,165
+"166;""Cursed Cupid Cleanser"";1",,,166
+"167;""Amit?bha Amidala Heaven's Hole"";5",,,167
+"168;""Sukhavati: Heaven's Hole"";5",,,168
+"169;""Alf Layla Wa-Layla"";2",,,169
+"170;""Manual of Accusation"";2",,,170
+"171;""Outrage Amazon"";5",,,171
+"172;""Santa Maria - Drop Anchor"";4",,,172
+"173;""Elementary My Dear"";2",,,173
+"174;""Marvelous Exploits"";1",,,174
+"175;""Lauda Lentum Domus Ilusterias"";3",,,175
+"176;""Skewered Plasma Blade"";3",,,176
+"177;""Sneferu ?'pi Nile"";3",,,177
+"178;""Nobunaga THE ROCK 'n' ROLL"";3",,,178
+"179;""Sequence Morgan"";3",,,179
+"180;""Sanat Kumara Wheel"";5",,,180
+"181;""Shakudai Kan'in Kongousho"";5",,,181
+"182;""An Gal Ta Seven Colors"";3",,,182
+"183;""Trishula Shakti"";1",,,183
+"184;""On Arorikya Sowaka"";4",,,184
+"185;""Kuchiyose Ibuki Daimyojin Engi"";4",,,185
+"186;""Oboro Urazuki"," Eleven Forms"";5",,186
+"187;""Kenjutsu Musou"," Kenzen Ichinyo"";1",,187
+"188;""Karakuri Genpou Dongyuu"";3",,,188
+"189;""The Great Hachitendou of Hakuro Castle"";2",,,189
+"190;""Breast Zero Erzsebet"";4",,,190
+"191;""Breast Zero Erzsebet"";4",,,191
+"192;""Metabole Piglets"";2",,,192
+"193;""Flying Bright Spirit"," Fire-Tipped Spear"";5",,193
+"194;""Three Enigmas"";2",,,194
+"195;""Qliphoth Rhizome"";4",,,195
+"196;""Kur Ki Gal Irkalla"";3",,,196
+"197;""Candystar Photon Ray"";4",,,197
+"198;""Fugaku Sanjuu Rokkei"";3",,,198
+"199;""Hanging Gardens of Babylon"";4",,,199
+"200;""Yuishiki Waikyoku no Magan"";1",,,200
+"201;""Viy Viy Viy"";2",,,201
+"202;""Tauropolos Skia Thermokras¡a"";1",,,202
+"203;""Golem Keter Malkuth"";5",,,203
+"204;""Dio Santissimo Misericordia di Mi"";4",,,204
+"205;""Zveri Krestnyy Khod"";5",,,205
+"206;""Troias Tragoidia"";3",,,206
+"207;""Antares Snipe"";1",,,207
+"208;""Akafiloga Argries"";3",,,208
+"209;""Zekken"," Mukyusandan"";3",,209
+"210;""Shimatsuken"";2",,,210
+"211;""Ama Kakeru Ryuu ga Gotoku"";2",,,211
+"212;""Arc de Triomphe de l'Etoile"";1",,,212
+"213;""Bolverk Gram - Heaven's Wheel of Destruction"";1",,,213
+"214;""Ragnarok Leifdrasir"";5",,,214
+"215;""Gate of Skye"";2",,,215
+"216;""Des Oceans d'Allegresse"";5",,,216
+"217;""Encomium Moriae"";2",,,217
+"218;""Tengu's Fan"," Akarashimakaze"";2",,218
+"219;""Volkermord Feuerdrache"";1",,,219
+"220;""Cursed Cutting Crater"";1",,,220
+"221;""One Shot My Love"";4",,,221
+"222;""Etherspace"," Yet Lawful"";3",,222
+"223;""Moralltach"";5",,,223
+"224;""Oputateshike Okimunpe"";4",,,224
+"225;""Gohou Shoujo Kuzuryuu Ousatsu"";1",,,225
+"226;""Mountainous Strength"," Conquering Might"";1",,226
+"227;""Prince of Lan Ling in Battle"";2",,,227
+"228;""Poem of Altruism and Loyalty"";2",,,228
+"229;""The Domination Beginning"";5",,,229
+"230;""Eternal Lament"";5",,,230
+"231;""Imitation God Force"";3",,,231
+"232;""Bouclier d'Atlante"";2",,,232
+"233;""Yucatan Regalo de Navidad"";3",,,233
+"234;""Judgment by the Ten Kings"," Wicker Box's Fate"";2",,234
+"235;""Wu Er Da"";1",,,235
+"236;""A Wish to the Stars"";5",,,236
+"237;""The Tale of Genji", Aoi," Evil Spirit"";1",237
+"238;""Airavata"," King Sized"";1",,238
+"239;""Kama Sammohana"";2",,,239
+"240;""Mara Avaloda"";2",,,240
+"241;""Unspoken Formation"";2",,,241
+"242;""Custos Morum"";4",,,242
+"243;""Rhongominyad"";3",,,243
+"244;""Ganesh Impact"";1",,,244
+"245;""Nahi Doongi"";4",,,245
+"246;""Apfel Schiessen"";5",,,246
+"247;""Mahapralaya"";4",,,247
+"248;""Sudarshana Chakra Yamar?ja"";3",,,248
+"249;""Resurrection Fraught Hades"";5",,,249
+"250;""Papiyas Reborn"," Demon King of the Myriad Heavens"";2",,250
+"251;""Ningen Mukotsu"";2",,,251
+"252;""Bishamonten's Eight Aspect Rotating Formation"";5",,,252
+"253;""Beautiful Journey"";1",,,253
+"254;""Astrapste Argo"";3",,,254
+"255;""Troia Velos"";4",,,255
+"256;""Ira Lupus"";1",,,256
+"257;""Black Dirty Barti Howling"";3",,,257
+"258;""Two-Pronged Formation"";4",,,258
+"259;""Le Reve Ensoleille"";3",,,259
+"260;""Femme Fatale Baiser"";2",,,260
+"261;""Ganryu jima"";3",,,261
+"262;""Thousand Origami of Hakuro"," Mili-Mili Night Fever"";5",,262
+"263;""Testarossa Maiden"";1",,,263
+"264;""Shokoku Taki Meguri"";4",,,264
+"265;""Bright Ehangwen"";5",,,265
+"266;""Blue Summer Palladion"";1",,,266
+"267;""Jet Sandanzuki"";3",,,267
+"268;""Edin Shugurra Quasar"";4",,,268
+"269;""Space Dead Man's Hand"";5",,,269
+"270;""Vulcano Caligorante"";2",,,270
+"271;""Assault Medicine Full Burst Party"";1",,,271
+"272;""Artemis Agnos"";3",,,272
+"273;""Serment de Durandal"";5",,,273
+"274;""Sfyri tou Talos"";1",,,274
+"275;""Rainbow Feathered Robe"," Vow of Eternal Love"";1",,275
+"276;""Emotional Engine - Full Drive"";1",,,276
+"277;""The Trojan Horse"";2",,,277
+"278;""Dioscures Tyndaridae"";5",,,278
+"279;""Lapithae Caenus"";2",,,279
+"280;""Per Aspera Ad Astra"";4",,,280
+"281;""Pale Blue Dot"";4",,,281
+"282;""Momijigari"";4",,,282
+"283;""Amenosakahoko"";2",,,283
+"284;""Around Caliburn"";1",,,284
+"285;""Nirmannarati - Heaven's Foam"";1",,,285
+"286;""Prisma Splash Rainbow!"";2",,,286
+"287;""Brynhild Sigurtein"";1",,,287
+"288;""Anti-Fling Rondo"";3",,,288
+"289;""Dreamlands"";3",,,289
+"290;""VR Shinkageryu? Hidden Technique: Tomoe-ga-Fuchi Taiyo-ken"";4",,,290
+"291;""Sotohrihime"," Spider's Conduct"";5",,291
+"292;""Eternal Mirrors Epitomizing the Stars"";5",,,292
+"293;""Formless"";2",,,293
+"294;""Demon King's Turning Tide"," Manjusaka"";3",,294

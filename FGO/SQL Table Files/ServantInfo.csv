@@ -1,0 +1,295 @@
+"ServantNumber";"ServantName";"isOwned";"StarRarity"
+1;"Mash Kyrielight";1;3
+2;"Altria Pendragon";0;5
+3;"Altria Pendragon (Alter)  ";0;4
+4;"Altria Pendragon (Lily)  ";1;4
+5;"Nero Claudius  ";1;4
+6;"Siegfried";1;4
+7;"Gaius Julius Caesar  ";0;3
+8;"Altera";0;5
+9;"Gilles de Rais  ";0;3
+10;"Chevalier d'Eon";1;4
+11;"EMIYA";1;4
+12;"Gilgamesh  ";1;5
+13;"Robin Hood  ";0;3
+14;"Atalante";0;4
+15;"Euryale  ";1;3
+16;"Arash  ";1;1
+17;"Cu Chulainn";1;3
+18;"Elisabeth B?ÿthory";0;4
+19;"Musashibou Benkei  ";0;2
+20;"Cu Chulainn (Prototype)";0;3
+21;"Leonidas I  ";0;2
+22;"Romulus  ";1;3
+23;"Medusa  ";0;3
+24;"Georgios  ";1;2
+25;"Edward Teach";0;2
+26;"Boudica  ";0;3
+27;"Ushiwakamaru  ";1;3
+28;"Alexander  ";0;3
+29;"Marie Antoinette";0;4
+30;"Martha";1;4
+31;"Medea  ";0;3
+32;"Gilles de Rais (Caster)  ";1;3
+33;"Hans Christian Andersen  ";0;2
+34;"William Shakespeare  ";1;2
+35;"Mephistopheles  ";0;3
+36;"Wolfgang Amadeus Mozart  ";1;1
+37;"Zhuge Liang (Lord El-Melloi II)";0;5
+38;"Cu Chulainn (Caster)";1;3
+39;"Sasaki Kojirou  ";0;1
+40;"Hassan of the Cursed Arm  ";1;2
+41;"Stheno";1;4
+42;"Jing Ke  ";1;3
+43;"Charles-Henri Sanson  ";0;2
+44;"Phantom of the Opera  ";0;2
+45;"Mata Hari  ";0;1
+46;"Carmilla";1;4
+47;"Heracles";0;4
+48;"Lancelot";0;4
+49;"Lu Bu Fengxian  ";1;3
+50;"Spartacus  ";1;1
+51;"Sakata Kintoki  ";1;5
+52;"Vlad III";0;5
+53;"Asterios  ";0;1
+54;"Caligula  ";0;2
+55;"Darius III  ";1;3
+56;"Kiyohime  ";1;3
+57;"Eric Bloodaxe  ";1;2
+58;"Tamamo Cat";1;4
+59;"Jeanne d'Arc";1;5
+60;"Orion";1;5
+61;"Elisabeth B?ÿthory (Halloween)  ";0;4
+62;"Tamamo-no-Mae";1;5
+63;"David  ";0;3
+64;"Hektor  ";0;3
+65;"Francis Drake";1;5
+66;"Anne Bonny & Mary Read";1;4
+67;"Medea (Lily)  ";0;4
+68;"Okita Souji  ";0;5
+69;"Oda Nobunaga  ";1;4
+70;"Sc?ÿthach  ";1;5
+71;"Diarmuid Ua Duibhne  ";1;3
+72;"Fergus mac R?›ich  ";1;3
+73;"Altria Pendragon (Santa Alter)  ";1;4
+74;"Nursery Rhyme";1;4
+75;"Jack the Ripper";0;5
+76;"Mordred";0;5
+77;"Nikola Tesla  ";0;5
+78;"Altria Pendragon (Lancer Alter)  ";1;4
+79;"Paracelsus von Hohenheim  ";0;3
+80;"Charles Babbage  ";0;3
+81;"Henry Jekyll & Hyde  ";0;3
+82;"Frankenstein";1;4
+83;"Solomon  Cross";1;5
+84;"Arjuna";1;5
+85;"Karna";1;5
+86;"Mysterious Heroine X  ";1;5
+87;"Fionn mac Cumhaill";1;4
+88;"Brynhild  ";1;5
+89;"Beowulf";1;4
+90;"Nero Claudius (Bride)  ";1;5
+91;"Ryougi Shiki (Saber)  ";1;5
+92;"Ryougi Shiki (Assassin)  ";0;4
+93;"Amakusa Shirou  ";0;5
+94;"Astolfo";0;4
+95;"Gilgamesh (Child)  ";1;3
+96;"Edmond Dantes";1;5
+97;"Florence Nightingale";1;5
+98;"Cu Chulainn (Alter)";1;5
+99;"Queen Medb  ";1;5
+100;"Helena Blavatsky";0;4
+101;"Rama";1;4
+102;"Li Shuwen  ";0;4
+103;"Thomas Edison  ";1;4
+104;"Geronimo  ";1;3
+105;"Billy the Kid  ";1;3
+106;"Jeanne d'Arc (Alter)  ";1;5
+107;"Anra Mainiiu";1;0
+108;"Iskandar  ";1;5
+109;"Emiya (Assassin)";0;4
+110;"Hassan of the Hundred Personas  ";0;3
+111;"Irisviel (Holy Grail)  ";1;4
+112;"Shuten-Douji  ";0;5
+113;"Xuanzang Sanzang";1;5
+114;"Minamoto-no-Raikou  ";1;5
+115;"Sakata Kintoki (Rider)  ";1;4
+116;"Ibaraki-Douji";0;4
+117;"Fuuma Kotarou  ";1;3
+118;"Ozymandias";0;5
+119;"Altria Pendragon (Lancer)  ";0;5
+120;"Nitocris";1;4
+121;"Lancelot (Saber)";0;4
+122;"Tristan  ";1;4
+123;"Gawain  ";1;4
+124;"Hassan of the Serenity  ";1;3
+125;"Tawara Touta  ";1;3
+126;"Bedivere  ";1;3
+127;"Leonardo Da Vinci  ";0;5
+128;"Tamamo-no-Mae (Lancer)  ";1;5
+129;"Altria Pendragon (Archer)  ";1;5
+130;"Marie Antoinette (Caster)  ";0;4
+131;"Anne Bonny & Mary Read (Archer)  ";1;4
+132;"Mordred (Rider)  ";0;4
+133;"Sc?ÿthach (Assassin)  ";1;4
+134;"Kiyohime (Lancer)  ";1;4
+135;"Martha (Ruler)  ";1;4
+136;"Illyasviel von Einzbern  ";0;5
+137;"Chloe von Einzbern  ";1;4
+138;"Elisabeth B?ÿthory (Brave)  ";1;4
+139;"Cleopatra  ";0;5
+140;"Vlad III (EXTRA)";0;4
+141;"Jeanne d'Arc Alter Santa Lily  ";0;4
+142;"Ishtar  ";1;5
+143;"Enkidu";0;5
+144;"Quetzalcoatl  ";1;5
+145;"Gilgamesh (Caster)";0;4
+146;"Medusa (Lancer)";1;4
+147;"Gorgon  ";1;4
+148;"Jaguar Warrior  ";0;3
+149;"Tiamat  Cross";0;5
+150;"Merlin  ";0;5
+151;"Goetia  Cross";0;5
+152;"Solomon  Cross";0;5
+153;"Miyamoto Musashi  ";0;5
+154;"First Hassan  ";1;5
+155;"Mysterious Heroine X (Alter)  ";0;5
+156;"Archer of Shinjuku  ";1;5
+157;"EMIYA (Alter)  ";0;4
+158;"Avenger of Shinjuku";1;4
+159;"Assassin of Shinjuku";0;4
+160;"Arthur Pendragon (Prototype)  ";0;5
+161;"Hijikata Toshizo  ";1;5
+162;"Chacha  ";0;4
+163;"Meltryllis  ";0;5
+164;"Passionlip  ";1;4
+165;"Suzuka Gozen";1;4
+166;"BB  ";0;4
+167;"Sessyoin Kiara  ";1;5
+168;"Beast III/R  Cross";0;5
+169;"Caster of Nightless City";1;5
+170;"Assassin of Nightless City";0;4
+171;"Berserker of El Dorado";1;4
+172;"Rider of Resistance  ";1;3
+173;"Sher Holmes  ";0;5
+174;"Paul Bunyan  ";0;1
+175;"Nero Claudius (Caster)  ";1;5
+176;"Frankenstein (Saber)  ";0;4
+177;"Nitocris (Assassin)  ";1;4
+178;"Oda Nobunaga (Berserker)  ";0;4
+179;"Altria Pendragon (Rider Alter)  ";1;5
+180;"Helena Blavatsky (Archer)  ";1;4
+181;"Minamoto-no-Raikou (Lancer)  ";0;4
+182;"Ishtar (Rider)  ";1;4
+183;"Parvati";0;4
+184;"Archer of Inferno";0;4
+185;"Assassin of Paradise, Assassin Paraiso";0;4
+186;"Houzouin Inshun  ";0;3
+187;"Yagyu Tajima-no-kami Munenori  ";0;4
+188;"Kato Danzou  ";0;4
+189;"Osakabehime";1;5
+190;"Mecha Eli-chan  ";1;4
+191;"Mecha Eli-chan MkII  ";0;4
+192;"Caster of Okeanos";0;4
+193;"Nezha";0;4
+194;"Caster of Midrash  ";1;4
+195;"Abigail Williams  ";0;5
+196;"Ereshkigal  ";1;5
+197;"Altera the San(ta)  ";0;4
+198;"Katsushika Hokusai  ";0;5
+199;"Semiramis  ";0;5
+200;"Asagami Fujino  ";1;4
+201;"Anastasia Nikolaevna Romanova";0;5
+202;"Atalante (Alter)";0;4
+203;"Avicebron  ";0;3
+204;"Antonio Salieri  ";1;3
+205;"Ivan the Terrible  ";1;5
+206;"Achilles";0;5
+207;"Chiron";1;4
+208;"Sieg  ";0;4
+209;"Okita Souji (Alter)  ";0;5
+210;"Okada Izou  ";0;3
+211;"Sakamoto Ryouma  ";0;4
+212;"Napoleon";0;5
+213;"Sigurd  ";1;5
+214;"Valkyrie";0;4
+215;"Sc?ÿthach-Skadi  ";1;5
+216;"Jeanne d'Arc (Archer)  ";1;5
+217;"Ibaraki-Douji (Lancer)  ";0;4
+218;"Ushiwakamaru (Assassin)  ";0;4
+219;"Jeanne d'Arc (Berserker Alter)  ";0;4
+220;"BB (Summer)  ";1;5
+221;"Queen Medb (Saber)  ";1;4
+222;"Mysterious Heroine XX  ";0;4
+223;"Diarmuid Ua Duibhne (Saber)";1;4
+224;"Sitonai  ";1;5
+225;"Shuten-Douji (Caster)  ";0;4
+226;"Xiang Yu";1;5
+227;"Prince of Lan Ling";1;4
+228;"Qin Liangyu";0;4
+229;"Qin Shi Huang  ";0;5
+230;"Yu Mei-ren  ";0;4
+231;"Red Hare  ";0;3
+232;"Bradamante";1;5
+233;"Quetzalcoatl (Samba/Santa)  ";1;4
+234;"Beni-Enma  ";1;5
+235;"Li Shuwen (Assassin)  ";1;5
+236;"Miyu Edelfelt  ";1;4
+237;"Murasaki Shikibu  ";1;5
+238;"Kingprotea  ";1;5
+239;"Kama  ";1;5
+240;"Beast III/L  Cross";0;5
+241;"Sima Yi (Reines)  ";1;5
+242;"Astraea";1;4
+243;"Gray  ";1;4
+244;"Jinako Carigiri";0;5
+245;"Lakshmi Bai";1;4
+246;"William Tell  ";0;3
+247;"Arjuna (Alter)  ";0;5
+248;"Asvatthaman";1;4
+249;"Asclepius  ";1;3
+250;"Oda Nobunaga (Avenger)  ";1;5
+251;"Mori Nagayoshi  ";0;3
+252;"Nagao Kagetora  ";1;4
+253;"Leonardo Da Vinci (Rider)  ";0;5
+254;"Jason  ";0;1
+255;"Paris  ";1;2
+256;"Gareth  ";0;2
+257;"Bartholomew Roberts  ";1;1
+258;"Chen Gong  ";0;2
+259;"Charlotte Corday  ";0;1
+260;"Salome  ";1;2
+261;"Miyamoto Musashi (Berserker)  ";1;5
+262;"Osakabehime (Archer)  ";0;4
+263;"Carmilla (Rider)  ";1;4
+264;"Katsushika Hokusai (Saber)  ";1;4
+265;"Altria Pendragon (Ruler)  ";1;5
+266;"Mysterious Alter-Ego Lambda  ";1;4
+267;"Okita Souji (Assassin)  ";0;4
+268;"Space Ishtar  ";0;5
+269;"Calamity Jane  ";0;4
+270;"Astolfo (Saber)  ";0;5
+271;"Nightingale (Santa)  ";1;4
+272;"Super Orion  ";1;5
+273;"Mandricardo";1;3
+274;"Europa";0;5
+275;"Yang Guifei  ";1;5
+276;"Sei Shounagon  ";1;5
+277;"Odysseus";0;5
+278;"Dioscuri";1;5
+279;"Caenis  ";1;4
+280;"Romulus=Quirinus  ";0;5
+281;"Voyager  ";1;5
+282;"Kijyo Kouyou  ";0;4
+283;"Utsumi Erice  ";1;4
+284;"Altria (Caster)  ";1;5
+285;"Sessyoin Kiara (Moon Cancer)  ";1;5
+286;"Illyasviel von Einzbern (Archer)  ";1;4
+287;"Brynhild (Berserker)  ";1;4
+288;"Yu Mei-ren (Lancer)  ";1;4
+289;"Abigail Williams (Summer)  ";0;5
+290;"Tomoe Gozen (Saber)  ";0;4
+291;"Murasaki Shikibu (Rider)  ";0;4
+292;"Himiko  ";1;5
+293;"Saito Hajime  ";1;4
+294;"Oda Nobukatsu  ";1;1
