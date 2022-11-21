@@ -41,6 +41,28 @@ namespace FGO.Controllers
             return servants;
         }
 
+        /*// GET: api/Servants
+        [HttpGet]
+        public async Task<ActionResult<StatusResponse>> GetServantStatus()
+        {
+            var followServ = await _context.Servants.ToListAsync();
+            StatusResponse APIresponse = new()
+            {
+                StatusCode = 400,
+                StatusDescription = "Error retrieving ID"
+            };
+
+            if (followServ != null)
+            {
+                APIresponse.StatusCode = 200;
+                APIresponse.StatusDescription = "ID Retrieval successful";
+                APIresponse.ServantResponse = followServ;
+            }
+
+            return APIresponse;
+        }*/
+
+
         // PUT: api/Servants/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]

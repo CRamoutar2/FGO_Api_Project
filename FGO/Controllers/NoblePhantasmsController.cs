@@ -41,6 +41,27 @@ namespace FGO.Controllers
             return noblePhantasm;
         }
 
+        /*// GET: api/NoblePhantasms
+        [HttpGet]
+        public async Task<ActionResult<StatusResponse>> GetNPStatus()
+        {
+            var followNP = await _context.NoblePhantasms.ToListAsync();
+            StatusResponse APIresponse = new()
+            {
+                StatusCode = 400,
+                StatusDescription = "Error retrieving ID"
+            };
+
+            if (followNP != null)
+            {
+                APIresponse.StatusCode = 200;
+                APIresponse.StatusDescription = "ID Retrieval successful";
+                APIresponse.NoblePhantasmResponse = followNP;
+            }
+
+            return APIresponse;
+        }*/
+
         // PUT: api/NoblePhantasms/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
