@@ -4,10 +4,32 @@
 This repo represents an API project based on Fate Grand Order, that I developed. 
 In order to create the api yourself:
 
-1) Download the .SQL files and the .CSV files in the "SQL Table Files" folder
-2) Open MySQL Workbench and use the .SQL file downloaded to create the database and the tables.
-3) Import table data using the .CSV files downloaded from the repo.
+1) Import ServantInfo.csv file.
 
+2) Use Existing Table: fgo.servants
+
+3) Make sure the Source Columns and Destination Columns align. Ie: ServantNumber = ServantNumber, ServantName = ServantName, isOwned = isOwned, StarRarity = StarRarity
+
+4) Continue to import and done. 
+
+
+
+
+5) Import the NpInfo.csv
+
+6) Use Existing Table: fgo.noblephantasms
+
+7) Make sure the Source Columns and Destination Columns align. Ie: NpID = NpID, NpName = NpName, NpLevel = NpLevel, CorrespondingServantNumber = CorrespondingServantNumber
+
+8) Continue to import and done. 
+
+
+
+
+9) (Optional) After importing, if the result says "0 records imported", retry the process.
+
+
+To test that the data is there. Test in an SQL file: Select * From noblephantasms(or servants)
 ## API Reference
 
 For statusCode refer to https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.http.statuscodes?view=aspnetcore-6.0
