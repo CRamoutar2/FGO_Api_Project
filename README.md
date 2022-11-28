@@ -72,6 +72,9 @@ For SQL constraints refer to https://www.w3schools.com/sql/sql_constraints.asp
 ## SQL Constraints
 
 ```NOT NULL```
+```UNIQUE```
+```FOREIGN KEY```
+```UNIQUE KEYS```
 
 ## Endpoints
 
