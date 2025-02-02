@@ -37,7 +37,7 @@ For SQL constraints refer to https://www.w3schools.com/sql/sql_constraints.asp
 
 ## HTTP Methods
 
-#### Get all Servamts
+#### Get all Servants
 
 ```http
   GET /api/Servants
